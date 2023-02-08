@@ -1,2 +1,5 @@
 # aula_3
-Aula número 3 do curso de Front End.
+Não consigo acessar a classe 
+.form-input
+No Arquivo style.css de nenhuma forma. Mesmo copiando e colando o seu código de exemplo.
+o que poderia ser?
